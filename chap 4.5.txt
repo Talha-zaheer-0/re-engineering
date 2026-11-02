@@ -1,0 +1,13 @@
+software change
+	software maintenance
+	software reengineering
+	architectural transformation
+change request
+change immplementation
+
+
+buissness process modeling framework
+archimate view: buissness, application, technology layer
+zachman frameworks
+buissness process model frameworks
+togaf
